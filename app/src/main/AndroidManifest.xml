@@ -32,7 +32,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCvg501t8J1DFHOeJTdpsApS8WhMe_Ji0g" />
+            android:value="enter key" />
 
         <activity
             android:name=".MenuActivity"
