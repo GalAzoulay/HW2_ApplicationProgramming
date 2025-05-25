@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="play_with_buttons">Play with Buttons</string>
+    <string name="play_with_tilt_sensor">Play with Tilt Sensor</string>
+    <string name="best_scores">Best Scores</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="fast_mode">Fast Mode</string>
+    <string name="slow_mode">Slow Mode</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+</resources>

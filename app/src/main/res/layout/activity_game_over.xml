@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/default_padding"
+    android:background="@color/light_blue">
+
+    <TextView
+        android:id="@+id/game_over_LBL_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Score: 0 m"
+        android:textSize="@dimen/score_text_size"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/text_margin"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/game_over_BTN_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back_to_menu"
+        android:textSize="@dimen/text_size"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

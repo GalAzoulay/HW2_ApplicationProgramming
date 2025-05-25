@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/default_padding"
+    android:background="@color/light_blue">
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_BTN_buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/play_with_buttons"
+        android:textSize="@dimen/text_size"/>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_BTN_sensor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/play_with_tilt_sensor"
+        android:textSize="@dimen/text_size"
+        android:layout_marginTop="@dimen/default_margin" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_BTN_best_scores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/best_scores"
+        android:textSize="@dimen/text_size"
+        android:layout_marginTop="@dimen/default_margin" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
