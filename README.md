@@ -43,7 +43,18 @@ An Android game built with Kotlin where the player controls a penguin driving on
 
 ## 📷 Screenshots
 
-*Add screenshots here if you have any.*
+
+<img src="https://github.com/user-attachments/assets/eaf74663-a43c-4d2e-9ef1-cd5e60915b10" width="300" height="500"/>
+
+<img src="https://github.com/user-attachments/assets/e0e7213c-603c-46fb-a533-cfa9b1285ded" width="300" height="500"/>
+
+<img src="https://github.com/user-attachments/assets/092dbbc3-4295-4f94-a260-edcfc8fe2d99" width="300" height="500"/>
+
+<img src="https://github.com/user-attachments/assets/f8551529-9d74-45a8-b4d1-e0f1fbb67dc8" width="300" height="500"/>
+
+<img src="https://github.com/user-attachments/assets/46bac2dd-d00d-4713-a825-008629b40599" width="300" height="500"/>
+
+<img src="https://github.com/user-attachments/assets/df93307c-da6d-4883-a40b-977940d9da3f" width="300" height="500"/>
 
 ---
 
