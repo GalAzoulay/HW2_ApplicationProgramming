@@ -9,7 +9,7 @@ An Android game built with Kotlin where the player controls a penguin driving on
 - 5-lane dynamic road grid
 - Two control modes:
   - **Buttons** (with Fast/Slow options)
-  - **Tilt Sensor**
+  - **Tilt Sensor** (With Fast/Slow options when tilting Down/Up)
 - Obstacles (Seals) and rewards (Fish)
 - Distance counter (odometer)
 - 3 lives per game
